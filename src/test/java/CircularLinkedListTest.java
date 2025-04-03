@@ -31,7 +31,7 @@ public class CircularLinkedListTest {
         list.insert('d', 3);
 
         assertEquals(4, list.length());
-        assertEquals("[b, c, a, d, f]", list.toString());
+        assertEquals("[b, c, a, d]", list.toString());
     }
 
     @Test
