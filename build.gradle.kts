@@ -16,7 +16,7 @@ dependencies {
 }
 
 application {
-    mainClass = "example"
+    mainClass = "ArrayListCharList"
 }
 
 tasks.test {
